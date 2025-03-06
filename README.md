@@ -1,6 +1,7 @@
 # Rayyan's Portfolio Page
 
 Developed by: Rayyan Alfawazy
+
 Developed since: March 2025
 
 Hi everyone, My name is Rayyan Alfawazy and I decide to start to develop my brand new Portfolio Single-Page Application.
