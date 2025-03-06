@@ -1,9 +1,9 @@
 # Rayyan's Portfolio Page
 
+```
 Developed by: Rayyan Alfawazy
-
 Developed since: March 2025
-
+```
 Hi everyone, My name is Rayyan Alfawazy and I decide to start to develop my brand new Portfolio Single-Page Application.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
